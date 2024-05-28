@@ -14,7 +14,7 @@ Este projeto Spring Boot demonstra persistência de dados usando JPA, gerenciame
 
 Clone o repositório do projeto para sua máquina local:
 ```sh
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/FabioPelagaggi/school-project.git
 cd seu-projeto
 ```
 
